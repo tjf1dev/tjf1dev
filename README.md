@@ -4,7 +4,6 @@
 ![pxyzowner](dev.png)
 ![pxyzowner](prog.png)
 
-### game developer 
 currently learning java<br>experienced with python and c# (kind of)
 working on [through the shadows](https://tts.p-xyz.eu)
 
