@@ -1,5 +1,5 @@
 # hi! im tjf1
-###just being myself :)
+### just being myself :)
 ![pxyzowner](pxyzowner.png)
 ![pxyzowner](dev.png)
 ![pxyzowner](prog.png)
