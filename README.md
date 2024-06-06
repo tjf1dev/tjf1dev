@@ -5,7 +5,7 @@
 ![pxyzowner](prog.png)
 
 
-currently learning java<br>
+currently learning java<br>experienced with python and c# (kind of)
 working on [through the shadows](https://tts.p-xyz.eu)
 
 
