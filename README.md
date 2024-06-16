@@ -3,7 +3,7 @@
 ![pxyzowner](pxyzowner.png)
 ![pxyzowner](dev.png)
 ![pxyzowner](prog.png)
-# owns [project.xyz](projectxyz.dev) ([org](https://github.com/projectxyz-dev))
+# owns [project.xyz](https://projectxyz.dev) ([org](https://github.com/projectxyz-dev))
 ### learning java<br>experienced with python and c# (kind of)<br>
 ### currently working on my game [through the shadows](https://tts.projectxyz.dev)
 
