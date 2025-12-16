@@ -5,7 +5,7 @@
 
 ![tjf1dev](https://github-readme-stats.vercel.app/api/top-langs?username=tjf1dev&show_icons=true&theme=tokyonight&layout=compact&hide_border=true)
 
-![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/tjf1dev)
 
 random badges no one cares about!!!!
 
