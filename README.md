@@ -1,9 +1,10 @@
-# hiiiI!!!!
-### discord: tjf1
+# https://tjf1.dev
 
-![stats](https://github-readme-stats.vercel.app/api?username=tjf1dev&theme=tokyonight&hide_border=true)
+hiiiI!!
 
-![tjf1dev](https://github-readme-stats.vercel.app/api/top-langs?username=tjf1dev&show_icons=true&theme=tokyonight&layout=compact&hide_border=true)
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=tjf1dev&theme=tokyonight&hide_border=true)
+
+![tjf1dev](https://github-readme-stats.vercel.app/api/top-langs?username=tjf1dev&show_icons=true&theme=tokyonight&layout=compact&hide_border=true) -->
 
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/tjf1dev)
 
@@ -35,20 +36,18 @@ and also do ui/ux design!
 ### [codygen](https://github.com/tjf1dev/codygen)
 a really powerful discord bot
 
-### [project-lite](https://github.com/tjf1dev/project-lite)
-a really powerful discord... client!
+### [bfg](https://github.com/tjf1dev/bfg)
+fast brainfu*k interpreter made in c#
 
 ## upcoming projects
-they might already be out!
-if not then the repo will be private :P
-
-
-thats all thank you for reading<3
-### [protochat client](https://github.com/tjf1dev/protoclient)
-client for protochat (my chatting platform)
+the repositories are private for now :P
 
 ### [protochat](https://github.com/tjf1dev/protochat)
-server for a chatting platform
+next level messaging platform, built with privacy and simplicity in mind
+- https://protochat.tjf1.dev
+- [protochat client](https://github.com/tjf1dev/protoclient)
 
-### [hookgen](https://github.com/tjf1dev/hookgen)
-discord webhook message generator
+### [hookmd](https://github.com/tjf1dev/hookmd)
+generator for static discord resource channels, with live updating and component support
+
+thats all thank you for reading<3
